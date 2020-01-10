@@ -1,0 +1,29 @@
+# Onboarding Checklist
+
+- [ ] All hiring paperwork
+- [ ] Employee manual
+- [ ] Create @inn.org email address
+  - [ ] Add to staff@inn.org and nerds@inn.org groups
+- [ ] Announcement blog post
+- [ ] All staff email
+- [ ] Add to staff directory
+  - [ ] On website
+  - [ ] In dropbox
+- [ ] Accounts
+  - [ ] Slack
+  - [ ] Dropbox
+  - [ ] Website
+  - [ ] Asana
+  - [ ] Harvest/Forecast
+  - [ ] GitHub
+  - [ ] Bitbucket
+  - [ ] WP Engine
+  - [ ] Hellosign
+- [ ] Shared folders/calendars
+  - [ ] Dropbox
+  - [ ] Google Drive
+  - [ ] Shared Google Calendars
+- [ ] 1password
+  - Install app
+  - Invite to INN team/shared vault (https://innorg.1password.com)
+- [ ] Create and review onboarding plan
